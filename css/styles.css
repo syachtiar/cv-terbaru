@@ -1,0 +1,115 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.div1 {
+  background-color: white;
+  margin: -10px;
+}
+.h11 {
+  height: 10px;
+  font-family: "Tilt Neon", cursive;
+  text-align: center;
+}
+
+h2 {
+  height: 10px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.user {
+  margin-top: -20px;
+  margin-bottom: -30px;
+}
+
+.icon1 {
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.img1 {
+  margin-left: 25px;
+}
+
+.icon2 {
+  position: relative;
+  right: 400px;
+  bottom: 100px;
+}
+
+/* My skill */
+
+.div2 {
+  width: 50%;
+  margin: 1% auto;
+  text-align: left;
+  background-color: black;
+}
+
+.hat {
+  height: 100px;
+}
+
+.h1-div2 {
+  color: white;
+  font-family: "Bebas Neue", cursive;
+}
+
+.p-div2 {
+  color: white;
+  font-family: "Bebas Neue", cursive;
+}
+
+th {
+  color: white;
+  font-family: "Bebas Neue", cursive;
+}
+
+td {
+  color: white;
+  font-family: "Bebas Neue", cursive;
+}
+
+.th-masjid {
+  width: 100px;
+}
+
+.ind {
+  position: relative;
+  margin-left: 30px;
+  height: 50px;
+  width: 50px;
+}
+.lokasi {
+    position: relative;
+    margin-left: 70px;
+}
+.table1 {
+    margin: auto;
+}
+.moai {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 20px;
+}
+/* CONTACT PERSON */
+
+.hr-per {
+    color: black;
+    position: relative;
+    top: 20px;
+}
+
+.lass-div {
+    background-color: white;
+    color: black;
+    margin: -10px;
+    font-family: "Bebas Neue", cursive;
+}
+.wa {
+height: 44px;
+width: 44px;
+}
